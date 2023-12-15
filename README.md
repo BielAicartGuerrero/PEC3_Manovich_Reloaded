@@ -26,6 +26,9 @@ La función de escritorio nos permite por ejemplo el uso de emuladores u otras p
 
 Para entender los logros obtenidos en esta hibridación, primero hemos de observar como ha funcionado el mercado del videojuego los últimos años. Donde encontramos que mayoritariamente, el sector de videojuegos está dividido en PC o los ordenadores que todos conocemos, las consolas de sobremesa como PlayStation y XBOX, y las consolas portátiles dominadas principalmente por Nintendo y su consola Nintendo Switch. Estas compañías, a excepción de PC, por muchísimos años se han consolidado en el mercado ofreciendo un catálogo de juegos limitado a su plataforma o consola. Forzando al público general o comprar varias o todas las consolas diferentes para poder jugar esos juegos exclusivos.
 
+![image](https://github.com/BielAicartGuerrero/PEC3_Manovich_Reloaded/assets/153949400/9283f6f0-3412-46b9-a2fa-1fdadfdc87fd)
+
+
 # Hibridación de la forma en la que comemos en entornos en línea con Doritos Silent
 
 Por otro lado, de forma inesperada, Doritos nos ha ofrecido una muestra de hibridación muy recientemente con su software de cancelación de sonido “CRUNCH Cancelation”. El cual promete identificar las ondas sonoras creadas por nuestra boca y las patatas al crujir, para eliminarlas de nuestra señal de salida de audio, eliminando cualquier sonido no deseado.
@@ -47,6 +50,9 @@ La estrategia de Doritos ha demostrado que la innovación no conoce límites y q
 Los consumidores pueden emplear este programa tanto para mejorar la calidad del sonido como para la cancelación de ruido, mostrando una versatilidad que va más allá de la percepción inicial de unas simples "patatas silenciosas".
 
 Aún no podemos conocer si este producto es o será una buena opción y se establecerá en el sector con un buen producto, o si por otro lado se quedará en una buena promoción que vendió un mal producto. Pero en todo caso, habrá sido un intento de hibridación de la marca, intentando entrar en un sector ajeno buscando lo mejor para su comunidad.
+
+![image](https://github.com/BielAicartGuerrero/PEC3_Manovich_Reloaded/assets/153949400/e36f372f-992f-4831-9892-1afee1c5653a)
+
 
 # BIBLIOGRAFÍA
 
@@ -75,3 +81,7 @@ Enlaces:
 [https://www.marketingdirecto.com/creacion/campanas-de-marketing/doritos-silent-cualquier-doritos-sera-silencioso](https://www.marketingdirecto.com/creacion/campanas-de-marketing/doritos-silent-cualquier-doritos-sera-silencioso)
 
 [https://www.extradigital.es/doritos-desvela-el-misterio-de-sus-snacks-silent-que-no-crujen-nac/](https://www.extradigital.es/doritos-desvela-el-misterio-de-sus-snacks-silent-que-no-crujen-nac/)
+
+[https://hardzone.es/noticias/juegos/steam-deck-windows-11/](https://hardzone.es/noticias/juegos/steam-deck-windows-11/)
+
+[https://www.elpublicista.es/anunciantes/doritos-crunch-cancellation-software-insonoriza-crujidos-durante](https://www.elpublicista.es/anunciantes/doritos-crunch-cancellation-software-insonoriza-crujidos-durante)
