@@ -82,6 +82,8 @@ Enlaces:
 
 [https://www.extradigital.es/doritos-desvela-el-misterio-de-sus-snacks-silent-que-no-crujen-nac/](https://www.extradigital.es/doritos-desvela-el-misterio-de-sus-snacks-silent-que-no-crujen-nac/)
 
+Y para las imágenes utilizadas:
+
 [https://hardzone.es/noticias/juegos/steam-deck-windows-11/](https://hardzone.es/noticias/juegos/steam-deck-windows-11/)
 
 [https://www.elpublicista.es/anunciantes/doritos-crunch-cancellation-software-insonoriza-crujidos-durante](https://www.elpublicista.es/anunciantes/doritos-crunch-cancellation-software-insonoriza-crujidos-durante)
